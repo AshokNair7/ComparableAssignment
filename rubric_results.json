@@ -1,0 +1,46 @@
+{
+    "rubric": "ComparableAssignment",
+    "lastSaved": "20141224 010426",
+    "weightage": {
+        "maxScore": 100,
+        "system": 100
+    },
+    "criteria": {
+        "system": [
+            {
+                "group": "system",
+                "checkType": "compile",
+                "checkName": "Compilation",
+                "visible": "eval",
+                "score": "0",
+                "penalty": "100",
+                "rule": {
+                    "warnings_ignore": [
+
+                    ],
+                    "deprecation_ignore": [
+
+                    ]
+                },
+                "result": {
+                    "PASS": true,
+                    "violations": [
+
+                    ]
+                }
+            }
+        ]
+    },
+    "resultSummary": {
+        "system": {
+            "totalchecks": 1,
+            "pass": 1,
+            "fail": 0,
+            "error": 0,
+            "skipped": 0,
+            "groupScore": 0
+        },
+        "overallScore": 0
+    },
+    "resultLastSaved": "20141224 010426"
+}
